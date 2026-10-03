@@ -157,48 +157,29 @@ A healthcare solution designed to improve access to telemedicine and healthcare 
 
 ---
 
-# 💡 What I'm Working On
-
-```text
-DSA
-████████████████░░░░ 80%
-
-Web Development
-██████████████░░░░░░ 70%
-
-Backend Development
-██████████░░░░░░░░░░ 50%
-
-Cloud / AWS
-████████░░░░░░░░░░░░ 40%
-
-Projects
-██████████████░░░░░░ 70%
-```
-
-> 🚀 Consistency over perfection.
-
 ---
 
-# 📚 Problem Solving
+## 📚 Problem Solving
 
 <div align="center">
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" alt="LeetCode">
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/codechef/5B4638" width="45" alt="CodeChef">
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="45" alt="Codeforces">
 </a>
 
 </div>
-
----
 
 ---
 
