@@ -5,10 +5,8 @@
 ### 💻 B.Tech CSE Student | DSA Enthusiast | Developer
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=GautamBisht98&label=Profile+Views&color=blue&style=flat" alt="Profile Views">
-
-<img src="https://img.shields.io/github/followers/GautamBisht98?label=Followers&style=flat" alt="Followers">
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GautamBisht98.GautamBisht98&left_text=Profile%20Views" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/GautamBisht98?label=Followers&style=flat" alt="Followers">
 </p>
 
 <p>
