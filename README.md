@@ -204,13 +204,16 @@ Projects
 
 ---
 
+---
+
 ## 📈 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/GautamBisht98">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GautamBisht98&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-</a>
+<img
+  src="https://raw.githubusercontent.com/GautamBisht98/GautamBisht98/output/activity-graph.svg"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 ---
