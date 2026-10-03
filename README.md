@@ -158,30 +158,24 @@ A healthcare solution designed to improve access to telemedicine and healthcare 
 ---
 
 ---
-
+---
 ## 📚 Problem Solving
 
 <div align="center">
 
 <a href="https://leetcode.com/">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" alt="LeetCode">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="52" height="52" alt="LeetCode">
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.codechef.com/">
-  <img src="https://cdn.simpleicons.org/codechef/5B4638" width="45" alt="CodeChef">
+  <img src="https://cdn.simpleicons.org/codechef/5B4638" width="52" height="52" alt="CodeChef">
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://codeforces.com/">
-  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="45" alt="Codeforces">
+  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="52" height="52" alt="Codeforces">
 </a>
 
 </div>
-
----
 
 ## 📈 GitHub Activity
 
