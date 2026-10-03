@@ -93,21 +93,35 @@
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GautamBisht98&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GautamBisht98&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Gautam's GitHub Stats"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamBisht98&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GautamBisht98&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+<a href="https://github.com/GautamBisht98">
+  <img src="https://img.shields.io/github/followers/GautamBisht98?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
+</a>
+
+<a href="https://github.com/GautamBisht98?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+
+<a href="https://github.com/GautamBisht98?tab=stars">
+  <img src="https://img.shields.io/badge/Starred%20Projects-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Starred Projects"/>
+</a>
 
 </div>
 
