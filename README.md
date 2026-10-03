@@ -225,8 +225,11 @@ Projects
   <source media="(prefers-color-scheme: light)"
           srcset="https://raw.githubusercontent.com/GautamBisht98/GautamBisht98/output/github-snake.svg">
 
-  <img alt="GitHub Contribution Snake"
-       src="https://raw.githubusercontent.com/GautamBisht98/GautamBisht98/output/github-snake.svg">
+  <img
+    src="https://raw.githubusercontent.com/GautamBisht98/GautamBisht98/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+
 </picture>
 
 </div>
