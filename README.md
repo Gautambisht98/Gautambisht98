@@ -113,46 +113,37 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/GautamBisht98">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GautamBisht98&repo=coding&theme=tokyonight&hide_border=true" />
-</a>
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 📚 Deadline Intelligence
+
+An algorithm-focused task management system using searching, sorting and deadline-based organization.
+
+**C++ • DSA • Firebase**
+
+</td>
+
+<td width="50%" align="center">
+
+### 🏥 Telemedicine Platform
+
+A healthcare solution designed to improve access to telemedicine and healthcare services in rural areas.
+
+**Web Development • Backend • AI**
+
+</td>
+
+</tr>
+</table>
 
 </div>
-
-### 📚 Deadline Intelligence & Missed-Task Analysis System
-
-> An algorithm-focused task management system designed around deadline organization, searching, sorting and intelligent task analysis.
-
-**Key Concepts**
-
-* 🔎 Linear Search
-* 🔍 Binary Search
-* 📊 Insertion Sort
-* 📊 Selection Sort
-* 🔥 Deadline-based organization
-* 📈 Visual analytics
-* 🔐 Firebase Authentication
-* ☁️ Firebase database integration
-
----
-
-### 🏥 Telemedicine Access for Rural Healthcare
-
-> A technology solution focused on improving healthcare accessibility in rural areas.
-
-**Planned / Implemented Concepts**
-
-* 🩺 Telemedicine
-* 📱 Multilingual interface
-* 📴 Offline EHR support
-* 💊 Medicine availability
-* 🤖 AI-assisted symptom checking
-* 🔐 Authentication
-* 📅 Appointment management
 
 ---
 
@@ -199,24 +190,29 @@ Projects
 
 ---
 
-# 📊 Contribution Calendar
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=GautamBisht98&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats"/>
+<a href="https://github.com/GautamBisht98">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GautamBisht98&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</a>
 
 </div>
-
 ---
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GautamBisht98/GautamBisht98/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GautamBisht98/GautamBisht98/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/GautamBisht98/GautamBisht98/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/GautamBisht98/GautamBisht98/output/github-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/GautamBisht98/GautamBisht98/output/github-snake.svg">
+
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/GautamBisht98/GautamBisht98/output/github-snake.svg">
 </picture>
 
 </div>
