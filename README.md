@@ -50,13 +50,13 @@
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css,js,express" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
 
 ### ☁️ Cloud & Tools
