@@ -62,7 +62,7 @@
 ### ☁️ Cloud & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,linux" />
 </p>
 
 ---
