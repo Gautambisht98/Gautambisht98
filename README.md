@@ -89,20 +89,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GautamBisht98&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Gautam's GitHub Stats"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamBisht98&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
-
-</div>
-
----
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -157,9 +143,6 @@ A healthcare solution designed to improve access to telemedicine and healthcare 
 
 ---
 
----
----
----
 ## 📚 Problem Solving
 
 <div align="center">
