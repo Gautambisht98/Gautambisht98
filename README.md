@@ -109,40 +109,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-### 📚 Deadline Intelligence
-
-An algorithm-focused task management system using searching, sorting and deadline-based organization.
-
-**C++ • DSA • Firebase**
-
-</td>
-
-<td width="50%" align="center">
-
-### 🏥 Telemedicine Platform
-
-A healthcare solution designed to improve access to telemedicine and healthcare services in rural areas.
-
-**Web Development • Backend • AI**
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
 ## 📚 Problem Solving
 
 <div align="center">
