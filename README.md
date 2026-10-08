@@ -83,26 +83,6 @@
 </div>
 
 ---
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/GautamBisht98">
-  <img src="https://img.shields.io/github/followers/GautamBisht98?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
-</a>
-
-<a href="https://github.com/GautamBisht98?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a>
-
-<a href="https://github.com/GautamBisht98?tab=stars">
-  <img src="https://img.shields.io/badge/Starred%20Projects-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Starred Projects"/>
-</a>
-
-</div>
-
----
 ## 📚 Problem Solving
 
 <div align="center">
